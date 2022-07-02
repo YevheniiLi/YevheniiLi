@@ -1,4 +1,4 @@
-<h1> Heyall </h1>
+<h1> Hey'all </h1>
 
 ### Hi there, im Yevhenii 👋
 
