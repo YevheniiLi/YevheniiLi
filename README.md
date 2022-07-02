@@ -1,4 +1,4 @@
-<h1> Hey'all :iphone:</h1>
+<h1> Hey'all :lion:</h1>
 
 ### Hi there, im Yevhenii 👋
 
