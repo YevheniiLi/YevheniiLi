@@ -2,11 +2,6 @@
 
 ### Hi there, im Yevhenii 👋
 
-<!--
-**YevheniiLi/YevheniiLi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 ### :man_technologist: About Me :
 
 - 🔭 I’m currently working on getting job on IT.
@@ -14,7 +9,7 @@ Here are some ideas to get you started:
 - 😄 I’m looking to collaborate with a communicative team
 - 📫 How to reach me: **jekilllimarenko@gmail.com**
 
--->
+
 
 
 
