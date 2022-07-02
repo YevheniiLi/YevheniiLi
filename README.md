@@ -2,6 +2,10 @@
 
 ### Hi there, im Yevhenii 👋
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 ### :man_technologist: About Me :
 
 - 🔭 I’m currently working on **find myself in IT**.
@@ -10,9 +14,7 @@
 - 📫 How to reach me: **jekilllimarenko@gmail.com**
 
 <img src="https://komarev.com/ghpvc/?username=yevheniili&style=flat-square&color=blueviolet" alt=""/>
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+
 
 ### :hammer_and_wrench: Languages and Tools :
 <img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
