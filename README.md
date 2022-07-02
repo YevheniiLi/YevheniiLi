@@ -1,4 +1,4 @@
-<h1> Hey'all :grinning: </h1>
+<h1> Hey'all :octocat: </h1>
 
 ### Hi there, im Yevhenii 👋
 
