@@ -8,7 +8,7 @@
 
 ### :man_technologist: About Me :
 
-- 🔭 I’m currently working on **find myself in IT <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">**.
+- 🔭 I’m currently working to **find myself in IT <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">**
 - 🌱 I’m currently learning **to make a feast from anything.**
 - 😄 I’m looking to collaborate **with a communicative team.**
 - 📫 How to reach me: **jekilllimarenko@gmail.com**
