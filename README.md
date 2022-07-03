@@ -30,7 +30,7 @@ src="https://cdn-icons-png.flaticon.com/512/408/408703.png" />
 <a href="https://linkedin.com/in/lymarenko/" target="_blank">my linkedin</a>
   
    <img align="left" alt="facebook" width="20px" 
-src="https://i.pinimg.com/originals/5b/ac/75/5bac7554c5c6ce538a7dcf00b7de88c4.jpg" /> 
+src="https://www.nicepng.com/png/full/47-476266_free-png-3d-facebook-logo-png-icon-png.png" /> 
 <a href="https://www.facebook.com/eugenelimarenko/" target="_blank">my facebook</a>
   
  </div>
