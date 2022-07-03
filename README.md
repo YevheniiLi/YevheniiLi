@@ -24,7 +24,7 @@ src="https://seeklogo.com/images/G/gmail-icon-logo-9ADB17D3F3-seeklogo.com.png" 
  
   <img align="left" alt="Linkedin" width="20px" 
 src="https://cdn-icons-png.flaticon.com/512/145/145807.png" /> 
-<a href="https://https://linkedin.com/in/lymarenko/" target="_blank">my linkedin</a>
+<a href="https://linkedin.com/in/lymarenko/" target="_blank">my linkedin</a>
  
  
 <img src="https://komarev.com/ghpvc/?username=yevheniili&style=flat-square&color=blueviolet" alt=""/>
