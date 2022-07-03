@@ -1,4 +1,4 @@
-<h1> "Imagination rules the world" :lion:</h1>
+<h1> Imagination rules the world :male_detective: </h1>
 
 ### Hi there, im Yevhenii 👋
 
