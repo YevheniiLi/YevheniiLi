@@ -18,11 +18,11 @@
 <div>
   
   <img align="left" alt="Instagram" width="20px" 
-src="https://pin.it/1SoHtvI/" /> 
+src="https://cdn-icons-png.flaticon.com/512/167/167313.png" /> 
 <a href="https://www.instagram.com/eugene_limarenko" target="_blank">my instagram</a>
   
   <img align="left" alt="Gmail" width="20px" 
-src="https://cdn-icons-png.flaticon.com/512/167/167313.png" /> 
+src="" /> 
 <a href="mailto:jekilllimarenko@gmail.com?subject=">my gmail</a>
   
   <img align="left" alt="Linkedin" width="20px" 
