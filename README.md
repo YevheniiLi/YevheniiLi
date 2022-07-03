@@ -26,7 +26,7 @@ src="https://images.squarespace-cdn.com/content/v1/5eee5b03eaa57e78d7b35cf0/1602
 <a href="mailto:jekilllimarenko@gmail.com?subject=">my gmail</a>
   
   <img align="left" alt="Linkedin" width="20px" 
-src="https://cdn-icons-png.flaticon.com/512/145/145807.png" /> 
+src="https://image.similarpng.com/very-thumbnail/2020/04/Linkedin-logo-blue-purple-glowing-social-network-png.png" /> 
 <a href="https://linkedin.com/in/lymarenko/" target="_blank">my linkedin</a>
   
  </div>
