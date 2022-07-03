@@ -18,7 +18,7 @@
 <div>
   
   <img align="left" alt="Instagram" width="20px" 
-src="https://image.similarpng.com/very-thumbnail/2020/05/Glossy-Instagram-icon-PNG.png" /> 
+src="https://www.pngitem.com/middle/hboJJoR_social-icons-circle-instagram-logo-png-transparent-png/" /> 
 <a href="https://www.instagram.com/eugene_limarenko" target="_blank">my instagram</a>
   
   <img align="left" alt="Gmail" width="20px" 
