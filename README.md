@@ -30,7 +30,7 @@ src="https://www.iconsdb.com/icons/preview/violet/linkedin-3-xxl.png" />
 <a href="https://linkedin.com/in/lymarenko/" target="_blank">my linkedin</a>
   
     <img align="left" alt="Facebook" width="20px" 
-src="https://www.kindpng.com/picc/m/11-110385_facebook-logo-icon-cool-facebook-icon-hd-png.png" /> 
+src="" /> 
 <a href="https://www.facebook.com/eugenelimarenko/" target="_blank">my facebook</a>
   
  </div>
