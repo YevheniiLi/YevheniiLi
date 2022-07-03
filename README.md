@@ -11,8 +11,9 @@
 - 🔭 I’m currently working to **find myself in IT.**
 - 🌱 I’m currently learning **to make a feast from anything.**
 - 😄 I’m looking to collaborate **with a communicative team.**
-- 📫 How to reach me: **jekilllimarenko@gmail.com**
+<!-- - 📫 How to reach me: * -->
 
+### :octocat: Contact Me:
 <div>
   
  <img align="left" alt="Instagram" width="20px" 
