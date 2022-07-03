@@ -30,7 +30,7 @@ src="https://cdn-icons-png.flaticon.com/512/408/408703.png" />
 <a href="https://linkedin.com/in/lymarenko/" target="_blank">my linkedin</a>
   
    <img align="left" alt="facebook" width="20px" 
-src="https://brandlogos.net/wp-content/uploads/2021/10/meta-logo.png" /> 
+src="https://files.softicons.com/download/social-media-icons/simple-icons-by-dan-leech/png/128x128/facebook.png" /> 
 <a href="https://www.facebook.com/eugenelimarenko/" target="_blank">my facebook</a>
   
  </div>
