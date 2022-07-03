@@ -1,4 +1,4 @@
-<h1> "Travel is the only thing you buy, that makes you richer." :lion:</h1>
+<h1> "The world is a book and those who do not travel read only one page." :lion:</h1>
 
 ### Hi there, im Yevhenii 👋
 
