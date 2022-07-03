@@ -22,6 +22,9 @@ src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.pn
 src="https://seeklogo.com/images/G/gmail-icon-logo-9ADB17D3F3-seeklogo.com.png" /> 
 <a href="https://jekilllimarenko@gmail.com" target="_blank">yevhenii_lymarenko</a>
  
+  <img align="left" alt="Linkedin" width="20px" 
+src="https://cdn-icons-png.flaticon.com/512/145/145807.png" /> 
+<a href="https://https://www.linkedin.com/in/lymarenko/" target="_blank">yevhenii_lymarenko</a>
  
  
 <img src="https://komarev.com/ghpvc/?username=yevheniili&style=flat-square&color=blueviolet" alt=""/>
