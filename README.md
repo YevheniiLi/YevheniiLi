@@ -29,6 +29,10 @@ src="https://images.squarespace-cdn.com/content/v1/5eee5b03eaa57e78d7b35cf0/1602
 src="https://www.iconsdb.com/icons/preview/violet/linkedin-3-xxl.png" /> 
 <a href="https://linkedin.com/in/lymarenko/" target="_blank">my linkedin</a>
   
+    <img align="left" alt="Facebook" width="20px" 
+src="https://icon-library.com/images/facebook-icon_96266.png" /> 
+<a href="https://www.facebook.com/eugenelimarenko/" target="_blank">my facebook</a>
+  
  </div>
  
 <img src="https://komarev.com/ghpvc/?username=yevheniili&style=flat-square&color=blueviolet" alt=""/>
