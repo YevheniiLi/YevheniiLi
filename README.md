@@ -13,6 +13,7 @@
 - 😄 I’m looking to collaborate **with a communicative team.**
 - 📫 How to reach me: **jekilllimarenko@gmail.com**
 
+<div>
  <img align="left" alt="Instagram" width="20px" 
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" /> 
 <a href="https://www.instagram.com/eugene_limarenko" target="_blank">my instagram</a>
@@ -25,7 +26,7 @@ src="https://seeklogo.com/images/G/gmail-icon-logo-9ADB17D3F3-seeklogo.com.png" 
   <img align="left" alt="Linkedin" width="20px" 
 src="https://cdn-icons-png.flaticon.com/512/145/145807.png" /> 
 <a href="https://linkedin.com/in/lymarenko/" target="_blank">my linkedin</a>
- 
+ </div>
  
 <img src="https://komarev.com/ghpvc/?username=yevheniili&style=flat-square&color=blueviolet" alt=""/>
 
