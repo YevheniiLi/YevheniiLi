@@ -23,7 +23,7 @@ src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.pn
   
   <img align="left" alt="Gmail" width="20px" 
 src="https://seeklogo.com/images/G/gmail-icon-logo-9ADB17D3F3-seeklogo.com.png" /> 
-<a href=«mailto:jekilllimarenko@gmail.com?subject=Заказ%20тура&body=Страна:%0AНомер%20для%20связи:»>my gmail</a>
+<a href="mailto:jekilllimarenko@gmail.com?subject=Заказ%20тура&body=Страна:%0AНомер%20для%20связи:">my gmail</a>
   
   <img align="left" alt="Linkedin" width="20px" 
 src="https://cdn-icons-png.flaticon.com/512/145/145807.png" /> 
