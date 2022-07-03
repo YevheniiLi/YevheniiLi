@@ -23,7 +23,7 @@ src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.pn
   
   <img align="left" alt="Gmail" width="20px" 
 src="https://seeklogo.com/images/G/gmail-icon-logo-9ADB17D3F3-seeklogo.com.png" /> 
-<a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=new" target="_blank">my gmail</a>
+<a href="https:/mailto:mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=new" target="_blank">my gmail</a>
   
   <img align="left" alt="Linkedin" width="20px" 
 src="https://cdn-icons-png.flaticon.com/512/145/145807.png" /> 
