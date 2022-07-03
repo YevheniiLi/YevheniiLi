@@ -22,7 +22,7 @@ src="https://cdn-icons-png.flaticon.com/512/167/167313.png" />
 <a href="https://www.instagram.com/eugene_limarenko" target="_blank">my instagram</a>
   
   <img align="left" alt="Gmail" width="20px" 
-src="https://w7.pngwing.com/pngs/465/41/png-transparent-email-computer-icons-persian-red-blue-gmail-miscellaneous-purple-blue.png" /> 
+src="https://images.squarespace-cdn.com/content/v1/5eee5b03eaa57e78d7b35cf0/1602540063534-YY9DU5SK1R5RWN0BNMOZ/1370543.png" /> 
 <a href="mailto:jekilllimarenko@gmail.com?subject=">my gmail</a>
   
   <img align="left" alt="Linkedin" width="20px" 
