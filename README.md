@@ -13,10 +13,10 @@
 - 😄 I’m looking to collaborate **with a communicative team.**
 - 📫 How to reach me: **jekilllimarenko@gmail.com**
 
-<!-- <img align="left" alt="Instagram" width="15px" 
+ <img align="left" alt="Instagram" width="20px" 
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" /> 
 <a href="https://www.instagram.com/eugene_limarenko" target="_blank">eugene_limarenko</a>
- -->
+ 
 <img src="https://komarev.com/ghpvc/?username=yevheniili&style=flat-square&color=blueviolet" alt=""/>
 
 
