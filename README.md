@@ -29,9 +29,9 @@ src="https://images.squarespace-cdn.com/content/v1/5eee5b03eaa57e78d7b35cf0/1602
 src="https://www.iconsdb.com/icons/preview/violet/linkedin-3-xxl.png" /> 
 <a href="https://linkedin.com/in/lymarenko/" target="_blank">my linkedin</a>
   
-   <img align="left" alt="Linkedin" width="20px" 
-src="https://www.iconsdb.com/icons/preview/violet/linkedin-3-xxl.png" /> 
-<a href="https://linkedin.com/in/lymarenko/" target="_blank">my linkedin</a>
+   <img align="left" alt="facebook" width="20px" 
+src="https://www.foodmanufacture.co.uk/var/wrbm_gb_food_pharma/storage/images/9/0/8/5/175809-1-eng-GB/Top-10-food-and-drink-brands-on-UK-Facebook-likes.png" /> 
+<a href="https://www.facebook.com/eugenelimarenko/" target="_blank">my facebook</a>
   
  </div>
  
