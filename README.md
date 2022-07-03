@@ -15,7 +15,7 @@
 
  <img align="left" alt="Instagram" width="20px" 
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" /> 
-<a href="https://www.instagram.com/eugene_limarenko" target="_blank">eugene_limarenko</a>
+<a href="https://www.instagram.com/eugene_limarenko" target="_blank">www.instagram.com/eugene_limarenko</a>
  
  
  <img align="left" alt="Gmail" width="20px" 
