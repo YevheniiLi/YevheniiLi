@@ -18,7 +18,7 @@
 <div>
   
   <img align="left" alt="Instagram" width="20px" 
-src="https://cdn-icons-png.flaticon.com/512/1384/1384886.png/" /> 
+src="https://www.flaticon.com/free-icon/instagram-logo_1384886?related_id=1384886&origin=search#/" /> 
 <a href="https://www.instagram.com/eugene_limarenko" target="_blank">my instagram</a>
   
   <img align="left" alt="Gmail" width="20px" 
