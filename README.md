@@ -1,4 +1,4 @@
-<h1> Hey'all :lion:</h1>
+<h1> "Travel is the only thing you buy, that makes you richer." :lion:</h1>
 
 ### Hi there, im Yevhenii 👋
 
