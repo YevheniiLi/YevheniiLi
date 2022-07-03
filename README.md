@@ -30,7 +30,7 @@ src="https://cdn-icons-png.flaticon.com/512/408/408703.png" />
 <a href="https://linkedin.com/in/lymarenko/" target="_blank">my linkedin</a>
   
    <img align="left" alt="facebook" width="20px" 
-src="https://www.foodmanufacture.co.uk/var/wrbm_gb_food_pharma/storage/images/9/0/8/5/175809-1-eng-GB/Top-10-food-and-drink-brands-on-UK-Facebook-likes.png" /> 
+src="https://i.pinimg.com/originals/5b/ac/75/5bac7554c5c6ce538a7dcf00b7de88c4.jpg" /> 
 <a href="https://www.facebook.com/eugenelimarenko/" target="_blank">my facebook</a>
   
  </div>
