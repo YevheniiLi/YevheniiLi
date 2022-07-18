@@ -27,7 +27,7 @@ src="https://images.squarespace-cdn.com/content/v1/5eee5b03eaa57e78d7b35cf0/1602
   
   <img align="left" alt="Linkedin" width="20px" 
 src="https://cdn-icons-png.flaticon.com/512/408/408703.png" /> 
-<a href="https://www.linkedin.com/in/yevheniilymarenko/" target="_blank">my linkedin</a>
+<a href="https://www.linkedin.com/in/lymarenko/" target="_blank">my linkedin</a>
   
    <img align="left" alt="facebook" width="20px" 
 src="https://files.softicons.com/download/social-media-icons/simple-icons-by-dan-leech/png/128x128/facebook.png" /> 
