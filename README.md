@@ -19,7 +19,7 @@
   
   <img align="left" alt="Instagram" width="20px" 
 src="https://cdn-icons-png.flaticon.com/512/167/167313.png" /> 
-<a href="https://www.instagram.com/yevhenii_limarenko" target="_blank">my instagram</a>
+<a href="https://www.instagram.com/yevhenii_lymarenko" target="_blank">my instagram</a>
   
   <img align="left" alt="Gmail" width="20px" 
 src="https://images.squarespace-cdn.com/content/v1/5eee5b03eaa57e78d7b35cf0/1602540063534-YY9DU5SK1R5RWN0BNMOZ/1370543.png" /> 
