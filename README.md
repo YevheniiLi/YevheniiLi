@@ -19,19 +19,19 @@
   
   <img align="left" alt="Instagram" width="20px" 
 src="https://cdn-icons-png.flaticon.com/512/167/167313.png" /> 
-<a href="https://www.instagram.com/yevhenii_lymarenko" target="_blank">my instagram</a>
+<a href="https://www.instagram.com/yevhenii_lymarenko" target="_blank">instagram</a>
   
   <img align="left" alt="Gmail" width="20px" 
 src="https://images.squarespace-cdn.com/content/v1/5eee5b03eaa57e78d7b35cf0/1602540063534-YY9DU5SK1R5RWN0BNMOZ/1370543.png" /> 
-<a href="mailto:jekilllimarenko@gmail.com?subject=">my gmail</a>
+<a href="mailto:jekilllimarenko@gmail.com?subject=">gmail</a>
   
   <img align="left" alt="Linkedin" width="20px" 
 src="https://cdn-icons-png.flaticon.com/512/408/408703.png" /> 
-<a href="https://www.linkedin.com/in/lymarenko/" target="_blank">my linkedin</a>
+<a href="https://www.linkedin.com/in/lymarenko/" target="_blank">linkedin</a>
   
    <img align="left" alt="facebook" width="20px" 
 src="https://files.softicons.com/download/social-media-icons/simple-icons-by-dan-leech/png/128x128/facebook.png" /> 
-<a href="https://www.facebook.com/eugenelimarenko/" target="_blank">my facebook</a>
+<a href="https://www.facebook.com/eugenelimarenko/" target="_blank">facebook</a>
   
  </div>
  
