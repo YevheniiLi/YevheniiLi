@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working to **find myself in IT.**
 - 🌱 I’m currently learning **to make a feast from anything.**
-- 😄 I’m looking to collaborate **with a communicative team.**
+- 🧲 I’m looking to collaborate **with a communicative team.**
 - 📟 All of my projects are available at **<a href="https://github.com/YevheniiLi?tab=repositories">one click</a>**
 <!-- - 📫 How to reach me: * -->
 
