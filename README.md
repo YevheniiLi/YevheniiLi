@@ -25,7 +25,7 @@
 
 <h3 align="left">:octocat: Contact Me:</h3>
 <p align="left">
-<a href="https://t.me/eyeije" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2504/2504941.png" alt="telegram" width="40" height="40" /></a>
+<a href="https://t.me/wellgardy" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2504/2504941.png" alt="telegram" width="40" height="40" /></a>
 <a href="https://www.instagram.com/yevhenii_lymarenko" target="blank"><img align="center" src="https://i.pinimg.com/originals/6a/8d/ae/6a8dae207b423873cba5b6c532bf57a1.png" alt="instagram" width="40" height="40" /></a> 
 <a href="https://www.facebook.com/eugenelimarenko/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Facebook_F_icon.svg/640px-Facebook_F_icon.svg.png" alt="facebook" width="40" height="40"/></a> 
 </p>
