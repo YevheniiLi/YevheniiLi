@@ -19,7 +19,7 @@
   
 - 🦾 I am looking for cooperation **with a positive team with innovative ideas.**
   
-- 📫 How to reach me **jekilllimarenko@gmail.com**
+- 📫 How to reach me **jekilllimarenko@gmail.com** # **jekillone@icloud.com**
   
 - ⚡  Fun fact: **I love coding and I wanna my code to be seen by the world.**
 
