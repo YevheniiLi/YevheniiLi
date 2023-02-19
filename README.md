@@ -13,15 +13,15 @@
 
   <h3 align="left">:man_technologist: About Me :</h3>
   
-- 🔭 I’m currently working to **find myself in IT.**
+- 🔭 I’m currently working **on finding my place in the IT industry.**
   
-- 🌱 I’m currently learning **to make a feast from anything.**
+- 🌱 I’m currently learning **to build and deploy web applications using cloud platforms.**
   
-- 🦾 I am looking for cooperation **with a positive team with innovative ideas.**
+- 🦾 I am looking for cooperation **a positive and innovative team that shares my values and drive.**
   
-- 📫 How to reach me **jekilllimarenko@gmail.com** # **jekillone@icloud.com**
-  
-- ⚡  Fun fact: **I love coding and I wanna my code to be seen by the world.**
+- 📫 Feel free to reach out to me at: **jekilllimarenko@gmail.com** or **jekillone@icloud.com**
+
+- ⚡  Fun fact: **I believe that the best code is the one that is seen and used by others.**
 
 <h3 align="left">:octocat: Contact Me:</h3>
 <p align="left">
