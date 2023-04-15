@@ -13,9 +13,9 @@
 
   <h3 align="left">:man_technologist: About Me :</h3>
   
-- 🔭 I’m currently working **on finding my place in the IT industry.**
+- 🔭 I’m currently working **interning to become a skilled front-end developer.**
   
-- 🌱 I’m currently learning **to build and deploy web applications using cloud platforms.**
+- 🌱 I’m currently learning **to build and deploy web applications using Angular and Typecsript.**
   
 - 🦾 I am looking for cooperation **a positive and innovative team that shares my values and drive.**
   
