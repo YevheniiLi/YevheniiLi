@@ -14,6 +14,8 @@
   <h3 align="left">:man_technologist: About Me :</h3>
   
 - 🔭 I’m currently working **interning to become a skilled front-end developer.**
+
+- 🔨 I'm currently pushing code **to BitBucket for Lentii startup.**
   
 - 🌱 I’m currently learning **to build and deploy web applications using Angular and Typecsript.**
   
@@ -23,7 +25,6 @@
 
 - ⚡  Fun fact: **I believe that the best code is the one that is seen and used by others.**
 
-- 🔨  Currently pushing code **to BitBucket for Lentii startup**.
 
 <h3 align="left">:octocat: Contact Me:</h3>
 <p align="left">
