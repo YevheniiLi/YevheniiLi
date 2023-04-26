@@ -23,6 +23,8 @@
 
 - ⚡  Fun fact: **I believe that the best code is the one that is seen and used by others.**
 
+- 🔨  Currently pushing code **to BitBucket for Lentii**.
+
 <h3 align="left">:octocat: Contact Me:</h3>
 <p align="left">
 <a href="https://t.me/wellgardy" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2504/2504941.png" alt="telegram" width="40" height="40" /></a>
