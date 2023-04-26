@@ -23,7 +23,7 @@
 
 - ⚡  Fun fact: **I believe that the best code is the one that is seen and used by others.**
 
-- 🔨  Currently pushing code **to BitBucket for Lentii**.
+- 🔨  Currently pushing code **to BitBucket for Lentii startup**.
 
 <h3 align="left">:octocat: Contact Me:</h3>
 <p align="left">
