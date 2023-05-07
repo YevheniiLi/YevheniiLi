@@ -17,7 +17,7 @@
 
 - 🔨 I'm currently pushing code **to BitBucket for Lentii startup.**
   
-- 🌱 I'm currently mastering **Angular, TypeScript, Tailwind, and Bootstrap to build and deploy highly-functional web applications.**
+- 🌱 I'm currently mastering **Angular, TypeScript, Tailwind, and Bootstrap to build and deploy web applications.**
   
 - 🦾 I am looking for cooperation **a positive and innovative team that shares my values and drive.**
   
