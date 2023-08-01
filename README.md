@@ -17,7 +17,7 @@
 
 - 🛠️ I'm currently building **web applications using React and related libraries.**
   
-- 🌱 I'm currently mastering **the art of front-end development and honing my skills in React.**
+- 🌱 I'm honing **my front-end development skills and mastering various modern technologies.**
   
 - 🦾 I am looking for cooperation **a positive and innovative team that shares my values and drive.**
   
