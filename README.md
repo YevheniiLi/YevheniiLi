@@ -13,11 +13,11 @@
 
   <h3 align="left">:man_technologist: About Me :</h3>
   
-- 🔭 I’m currently working **interning remotely in Denmark to become a skilled front-end developer.**
+- 🔭 I’m currently working **to become a skilled front-end developer.**
 
-- 🔨 I'm currently pushing code **to BitBucket for Lentii startup.**
+- 🛠️ I'm currently building **web applications using React and related libraries.**
   
-- 🌱 I'm currently mastering **Angular, TypeScript, Tailwind, and Bootstrap to build and deploy web applications.**
+- 🌱 I'm currently mastering **the art of front-end development and honing my skills in React.**
   
 - 🦾 I am looking for cooperation **a positive and innovative team that shares my values and drive.**
   
