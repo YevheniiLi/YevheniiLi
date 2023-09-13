@@ -1,6 +1,6 @@
 <h1 align="center"> Hey, im Yevhenii 👋 </h1>
 
-<h3 align="center"> Frontend Developer | Certified Full Stack Engineer :male_detective: </h3>
+<!-- <h3 align="center"> Frontend Developer | Certified Full Stack Engineer :male_detective: </h3> -->
 
 
 <!-- <h3 align="center"> Imagination rules the world :male_detective: </h3> -->
@@ -11,7 +11,7 @@
 </div> -->
 
 
-  <h3 align="left">:man_technologist: About Me :</h3>
+  <h3 align="left">:man_technologist:  Frontend Developer | Certified Full Stack Engineer :</h3>
   
 - 🔭 I'm on a journey to master full-stack development.
 
