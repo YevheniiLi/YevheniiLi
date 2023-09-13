@@ -1,6 +1,6 @@
 <h1 align="center"> Hey, im Yevhenii 👋 </h1>
 
-<h3 align="center"> I'm Front-End Developer from Ukraine 🇺🇦 :male_detective: </h3>
+<h3 align="center"> Frontend Developer | Certified Full Stack Engineer :male_detective: </h3>
 
 
 <!-- <h3 align="center"> Imagination rules the world :male_detective: </h3> -->
@@ -13,17 +13,17 @@
 
   <h3 align="left">:man_technologist: About Me :</h3>
   
-- 🔭 I’m currently working **to become a skilled front-end developer.**
+- 🔭 I'm on a journey to master full-stack development.
 
-- 🛠️ I'm currently building **web applications using React and related libraries.**
+- 🛠️  I'm currently building proficient in React, Node.js, and Express for end-to-end development.
   
-- 🌱 I'm honing **my front-end development skills and mastering various modern technologies.**
+- 🌱  Continuously honing skills in the ever-evolving tech landscape.
   
-- 🦾 I am looking for cooperation **a positive and innovative team that shares my values and drive.**
+- 🦾  Eager to join dynamic and innovative teams that share my passion.
   
-- 📫 Feel free to reach out to me at: **jekilllimarenko@gmail.com** or **jekillone@icloud.com**
+- 📫  Reach out at jekilllimarenko@gmail.com or jekillone@icloud.com for collaboration.
 
-- ⚡  Fun fact: **I believe that the best code is the one that is seen and used by others.**
+- ⚡  Firmly believe that the best code thrives when it's shared and utilised by others.
 
 <h3 align="left">:octocat: Contact Me:</h3>
 <p align="left">
