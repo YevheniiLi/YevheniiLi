@@ -15,7 +15,7 @@
   
 - 🔭 I'm on a journey to master full-stack development.
 
-- 🛠️  I'm currently building proficient in React, Node.js, and Express for end-to-end development.
+- 🛠️  I'm currently proficient in full-stack development, covering both frontend and backend aspects.
   
 - 🌱  Continuously honing skills in the ever-evolving tech landscape.
   
