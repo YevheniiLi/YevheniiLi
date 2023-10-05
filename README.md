@@ -15,7 +15,7 @@
   
 - 🔭 I'm on a journey to master full-stack development.
 
-- 📊 Currently delving into database management, mastering RxJS and TS for more efficient data handling in my full-stack development.
+- 📊 Currently delving into database management, RxJS and TS for more efficient data handling in my full-stack development.
 
 - 🛠️  Experience in end-to-end development, which encompasses both frontend and backend development.
   
