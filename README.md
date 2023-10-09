@@ -15,7 +15,7 @@
   
 - 🔭 I'm on a journey to master full-stack development.
 
-- 📊 Currently delving into database management, RxJS and TS for more efficient data handling in my full-stack development.
+- 📊 I'm currently honing my skills in React, database management, RxJS, and TypeScript to create more efficient and robust web applications, and I'm excited to apply these skills to real-world projects.
 
 - 🛠️  Experience in end-to-end development, which encompasses both frontend and backend development.
   
