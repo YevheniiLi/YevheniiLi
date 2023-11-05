@@ -15,7 +15,7 @@
   
 - 🔭 I'm on a journey to master full-stack development.
 
-- 📊 Improving skills in React, Angular, databases, RxJS, and TypeScript for robust web apps.
+- 📊 Improving skills in React, Angular, databases,RxJS, and TypeScript for robust web apps.
   
 - 🛠️  Experience in end-to-end development, which encompasses both frontend and backend development.
   
