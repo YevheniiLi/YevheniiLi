@@ -13,7 +13,7 @@
 
   <h3 align="left">:man_technologist:  Frontend Developer | Certified Full Stack Engineer :</h3>
   
-- 🔭  I'm on a journey to master full-stack development.
+- 🔭  I'm on a journey to master full-stack development
 
 - 📊  Elevating proficiency in React, Angular, databases, RxJS, and TypeScript for resilient web applications.
   
