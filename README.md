@@ -15,7 +15,7 @@
   
 - 🔭  I'm on a journey to master full-stack development.
 
-- 📊  Experienced Front-End developer specializing in React, Angular, TypeScript, and databases, ensuring robust web applications.
+- 📊  Experienced Front-End developer specializing in React, Angular, TypeScript, and databases, ensuring web applications.
   
 - 🛠️  Experience in end-to-end development, which encompasses both frontend and backend development.
   
