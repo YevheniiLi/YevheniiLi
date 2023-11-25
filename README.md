@@ -15,7 +15,7 @@
   
 - 🔭  I'm on a journey to master full-stack development.
 
-- 🌐 Visit my personal portfolio: <a href="https://yevheniili.netlify.app" target="blank">https://yevheniili.netlify.app</a>
+- 🌐 Visit my personal portfolio: <a href="https://yevheniili.netlify.app" target="__blank">https://yevheniili.netlify.app</a>
 
 - 📊  Experienced Front-End developer specializing in React, Angular, TypeScript, and databases, ensuring web applications.
   
