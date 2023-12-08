@@ -11,7 +11,7 @@
 </div> -->
 
 
-  <h3 align="left">:man_technologist:  Frontend Developer | Certified Full Stack Engineer :</h3>
+  <h3 align="left">👨🏻‍💻  Frontend Developer | Certified Full Stack Engineer :</h3>
   
 - 🔭  I'm on a journey to master full-stack development
 
@@ -52,7 +52,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=yevheniili&style=flat-square&color=blueviolet" alt="ysn"/>
 -->
-<h3 align="left">:hammer_and_wrench: Languages and Tools :</h3>
+<h3 align="left">🛠️ Languages and Tools :</h3>
 <img align="left" alt="React" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="JavaScript" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Node.js" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
