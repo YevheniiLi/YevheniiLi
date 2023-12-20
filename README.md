@@ -13,7 +13,7 @@
 
   <h3 align="left">👨🏻‍💻  Frontend Developer | Certified Full Stack Engineer :</h3>
   
-- 🔭  I'm on a journey to master full-stack development.
+- 🔭  I'm on a journey to master full-stack development
 
 - 🌐 Visit my personal portfolio: https://yevheniili.netlify.app
 
