@@ -60,3 +60,10 @@
 <img align="left" alt="GitHub" width="32" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" />
 <img align="left" alt="VS Code" width="32" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Terminal" width="32" src="https://raw.githubusercontent.com/github/explore/main/topics/terminal/terminal.png" />
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YevheniiLi&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YevheniiLi&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
