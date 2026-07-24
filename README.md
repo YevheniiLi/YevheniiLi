@@ -11,7 +11,6 @@
   &emsp;&emsp;
   <a href="mailto:jekillone@icloud.com"> iCloud</a>
 </p>
----
 
 ### 👨🏻‍💻 About Me
 
