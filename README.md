@@ -12,11 +12,17 @@
   <a href="mailto:jekillone@icloud.com"> iCloud</a>
 </p>
 
-### 👨🏻‍💻 About Me
+## 👨🏻‍💻 About Me
 
-Frontend Developer with commercial experience building responsive and scalable web applications using **React**, **TypeScript**, **Angular**, and **JavaScript**.
+Frontend Developer with **2+ years of commercial experience** building modern web applications.
 
-Experienced across the full development lifecycle with **Node.js**, **Express**, and **MongoDB**. Passionate about writing clean, maintainable code and continuously improving my skills.
+⚛️ React • Angular • TypeScript • JavaScript • Node.js
+
+🚀 Focused on clean architecture, performance and intuitive user experiences.
+
+🌱 Constantly learning and expanding my Full Stack expertise.
+
+🤝 Open to exciting opportunities and collaborations.
 
 ---
 
