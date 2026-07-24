@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yevhenii</h1>
+<h1 align="center">Hi 👋 I'm Yevhenii</h1>
 
 <p align="center">
   <b>Frontend Developer</b> • React • TypeScript • Angular
