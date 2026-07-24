@@ -11,23 +11,17 @@
 </div> -->
 
 
-  <h3 align="left">👨🏻‍💻  Frontend Developer | Certified Full Stack Engineer :</h3>
-  
-- 🔭  I'm on a journey to master full-stack development.
+ <h3 align="left">👨🏻‍💻 Frontend Developer | React & TypeScript</h3>
 
-- 🌐 Visit my personal portfolio: https://yevheniili.netlify.app
+- 🌐 **Portfolio:** https://yevheniili.netlify.app
 
-- 📊  Experienced Front-End developer specializing in React, Angular, TypeScript, and databases, ensuring web applications.
-  
-- 🛠️  Experience in end-to-end development, which encompasses both frontend and backend development.
-  
-- 🌱  Continuously honing skills in the ever-evolving tech landscape.
-  
-- 🦾  Eager to join dynamic and innovative teams that share my passion.
-  
-- 📫  Reach out at jekilllimarenko@gmail.com or jekillone@icloud.com for collaboration.
+- 💼 Frontend Developer with commercial experience building responsive, scalable web applications using **React, TypeScript, Angular, and JavaScript**.
 
-- ⚡  Firmly believe that the best code thrives when it's shared and utilised by others.
+- ⚙️ Experienced across the full development lifecycle, with knowledge of **Node.js**, **Express**, and **MongoDB**.
+
+- 🚀 Passionate about creating clean, maintainable, and user-friendly applications while continuously improving my skills.
+
+- 📫 **Contact:** jekilllimarenko@gmail.com | jekillone@icloud.com
 
 <!-- <h3 align="left">:octocat: Contact Me:</h3>
 <p align="left">
