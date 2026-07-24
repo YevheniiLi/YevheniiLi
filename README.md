@@ -5,11 +5,12 @@
 </p>
 
 <p align="center">
-  <a href="https://yevheniili.netlify.app">🌐 Portfolio</a> •
-  <a href="mailto:jekilllimarenko@gmail.com">📧 Email</a> •
+  <a href="https://yevheniili.netlify.app">🌐 Portfolio</a>
+  &emsp;&emsp;
+  <a href="mailto:jekilllimarenko@gmail.com">📧 Email</a>
+  &emsp;&emsp;
   <a href="mailto:jekillone@icloud.com"> iCloud</a>
 </p>
-
 ---
 
 ### 👨🏻‍💻 About Me
