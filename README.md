@@ -16,8 +16,6 @@
 
 Frontend Developer with **2+ years of commercial experience** building modern web applications.
 
-⚛️ React • Angular • TypeScript • JavaScript • Node.js
-
 🚀 Focused on clean architecture, performance and intuitive user experiences.
 
 🌱 Constantly learning and expanding my Full Stack expertise.
